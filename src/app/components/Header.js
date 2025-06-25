@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="w-full flex items-center justify-between px-8 py-4 bg-white shadow-none">
+    <header className="w-full flex items-center justify-between px-8 py-4 bg-white shadow-none border-b border-gray-100">
       {/* Logo */}
       <div className="flex items-center gap-2">
         {/* Placeholder SVG logo */}
